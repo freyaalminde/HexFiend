@@ -1,0 +1,1 @@
+../../HFRepresenterBinaryTextView.h

@@ -6,7 +6,9 @@
 //
 
 #import "HFObjectGraph.h"
+#if HFUNIT_TESTS
 #import "HFTest.h"
+#endif
 #import <HexFiend/HFFrameworkPrefix.h>
 #import <HexFiend/HFAssert.h>
 

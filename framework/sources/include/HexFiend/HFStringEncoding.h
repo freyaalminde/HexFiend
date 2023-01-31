@@ -1,0 +1,1 @@
+../../HFStringEncoding.h
